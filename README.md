@@ -1,16 +1,72 @@
-### Hi there 👋
 
-<!--
-**17Shivansh/17Shivansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there, I'm Shivansh Srivastava! 👋
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey there! I'm diving deep into the world of computer science while cruising through my B.Tech in CSE at Galgoitas University. I'm not just about sleek and user-friendly interfaces – they call me the frontend maestro! 🎨 But hold on, the adventure doesn't end there. I'm on a mission to level up and become a full-stack wizard and an Android app guru. Join me on this tech rollercoaster! 🧙‍♂️
+
+## My Tech Toolkit ✨
+
+- **Frontend Fanatic**: I whip up awesome web experiences using HTML, CSS, and JavaScript.
+
+- **Java Explorer**: I'm not just sipping coffee; I'm coding cool stuff with Java.
+
+- **Full-Stack Dreamer**: I'm on a mission to conquer the backend – databases, servers, APIs, you name it!
+
+- **Android Aficionado**: Android Studio is my go-to spot. I'm cooking up mobile apps with a dash of UX magic. Let's make tech waves! 🚀
+<br>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="57" height="57" />
+</a>
+&nbsp; 
+<!-- CSS -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="57" height="57" />
+</a>
+&nbsp; 
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="57" height="57" />
+</a>
+&nbsp; 
+<!-- Java -->
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="57" height="57" />
+</a>
+ &nbsp;    
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="60" height="60" /></a>
+&nbsp; 
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>
+ &nbsp;          
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="cplusplus" width="57" height="57" /></a>
+      
+
+  
+## Github Stats 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=17Shivansh&show_icons=true&locale=en&layout=compact&theme=dark" alt="17Shivansh " /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=17Shivansh&show_icons=true&locale=en&theme=dark" alt="17Shivansh " /></p>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=17Shivansh&theme=dark)](https://git.io/streak-stats)
+
+
+## Connect With Me 🚀
+
+- **LinkedIn**: [Shivansh Srivastava]([https://www.linkedin.com/in/surya-kant-srivastava-6192a224a](https://www.linkedin.com/in/shivansh-srivastava-772a00275))
+- **Email**: 17shivanshsrivastava@gmail.com
+
+Feel free to reach out if you're interested in collaborating, coding discussions, or to share insights on my repositories.
+
+P.S. Don't forget to star ⭐️ this repo if you found it Intresting.
+
+<!---
+17Shivansh /17Shivansh  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
