@@ -1,9 +1,12 @@
 
-# Hey there, I'm Shivansh Srivastava! 👋
+<h1 align="center">Hi 👋, I'm Shivansh Srivastava</h1>
+<h3 align="center">Technology excites me and I am always in awe of the change it drives in the world. Certain skills that I've honed my skills in Data Structures and Algorithms (Java) and Web Development, working with NodeJs, MySQL, Express.js, and React.js. And what I might lack in skills I make up for with my determination to learn.</h3>
 
-## About Me
+<img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
 
-Hey there! I'm diving deep into the world of computer science while cruising through my B.Tech in CSE at Galgoitas University. I'm not just about sleek and user-friendly interfaces – they call me the frontend maestro! 🎨 But hold on, the adventure doesn't end there. I'm on a mission to level up and become a full-stack wizard and an Android app guru. Join me on this tech rollercoaster! 🧙‍♂️
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=17shivansh&label=Profile%20views&color=0e75b6&style=flat" alt="17shivansh" /> </p>
+
+- 🌱 I’m currently learning **Web Development.**
 
 ## My Tech Toolkit ✨
 
@@ -16,33 +19,32 @@ Hey there! I'm diving deep into the world of computer science while cruising thr
 - **Android Aficionado**: Android Studio is my go-to spot. I'm cooking up mobile apps with a dash of UX magic. Let's make tech waves! 🚀
 <br>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="57" height="57" />
-</a>
-&nbsp; 
-<!-- CSS -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="57" height="57" />
-</a>
-&nbsp; 
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="57" height="57" />
-</a>
-&nbsp; 
-<!-- Java -->
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="57" height="57" />
-</a>
- &nbsp;    
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="60" height="60" /></a>
-&nbsp; 
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>
- &nbsp;          
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="cplusplus" width="57" height="57" /></a>
+
+
+<p align="left"> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
+   &nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a>
+   &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
+   &nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
+   &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 
+   &nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
+   &nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
+   &nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
+   &nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
+   &nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> 
+   &nbsp;
+  </p>  
       
 
   
@@ -57,7 +59,7 @@ Hey there! I'm diving deep into the world of computer science while cruising thr
 
 ## Connect With Me 🚀
 
-- **LinkedIn**: [Shivansh Srivastava]([https://www.linkedin.com/in/surya-kant-srivastava-6192a224a](https://www.linkedin.com/in/shivansh-srivastava-772a00275))
+- **LinkedIn**: [Shivansh Srivastava](shivansh-srivastava-772a00275)
 - **Email**: 17shivanshsrivastava@gmail.com
 
 Feel free to reach out if you're interested in collaborating, coding discussions, or to share insights on my repositories.
