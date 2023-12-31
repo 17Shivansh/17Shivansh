@@ -1,4 +1,4 @@
-
+![logo](https://github.com/17Shivansh/17Shivansh/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(5).png?raw=true)
 <h1 align="center">Hi 👋, I'm Shivansh Srivastava</h1>
 <h3 align="center">Technology excites me and I am always in awe of the change it drives in the world. Certain skills that I've honed my skills in Data Structures and Algorithms (Java) and Web Development, working with NodeJs, MySQL, Express.js, and React.js. And what I might lack in skills I make up for with my determination to learn.</h3>
 
